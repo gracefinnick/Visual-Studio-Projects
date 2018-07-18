@@ -1,0 +1,8 @@
+First Name: Grace
+Last Name: Finnick
+Email Address: gfinnick@fake.com
+Age: 22
+Are you over 21 years old? True
+Are you in school? True
+Do you have a Bachelor's Degree? False
+Do you have a Graduate Degree? False

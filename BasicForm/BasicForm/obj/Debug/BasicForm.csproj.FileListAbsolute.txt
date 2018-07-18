@@ -1,0 +1,15 @@
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.exe.config
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.exe
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.pdb
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csprojAssemblyReference.cache
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\MainWindow.g.cs
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\App.g.cs
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm_MarkupCompile.cache
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm_MarkupCompile.lref
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\MainWindow.baml
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.g.resources
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.exe
+C:\Users\jacqueline.g.finnick\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.pdb
