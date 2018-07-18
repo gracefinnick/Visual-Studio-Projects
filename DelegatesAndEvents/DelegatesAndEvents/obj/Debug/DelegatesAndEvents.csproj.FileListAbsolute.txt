@@ -1,0 +1,7 @@
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\jacqueline.g.finnick\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
