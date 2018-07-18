@@ -1,0 +1,17 @@
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\GradeBook.exe
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\GradeBook.pdb
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\GradeBook.exe.config
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\obj\Debug\GradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\obj\Debug\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\obj\Debug\GradeBook.Tests.csproj.CopyComplete
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\jacqueline.g.finnick\source\repos\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.pdb
